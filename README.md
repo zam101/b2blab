@@ -1,5 +1,7 @@
 # b2b lab (ANDROID & IOS):
 
+![b2blab_1.png](./screenshots/b2blab_1.png)
+
 flutter app that i developed using flutter(frontend and api integration + firebase) .
 
 B2B lab application designed to streamline participant interactions and enhance networking opportunities. Developed to facilitate seamless event experiences, the app enables users to:
@@ -42,7 +44,6 @@ This project utilizes the following Flutter packages:
 - flutter_launcher_icons
 - flutter_native_splash
 
-# presentation :
+# screenshots :
 
-![b2blab_1.png](./screenshots/b2blab_1.png)
 ![b2blab_2.png](./screenshots/b2blab_2.png)
